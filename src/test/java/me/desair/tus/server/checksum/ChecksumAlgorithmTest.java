@@ -7,7 +7,7 @@ import org.junit.Test;
 
 public class ChecksumAlgorithmTest {
 
-    @Test
+    @Tes
     public void getMessageDigest() throws Exception {
         assertNotNull(ChecksumAlgorithm.MD5.getMessageDigest());
         assertNotNull(ChecksumAlgorithm.SHA1.getMessageDigest());
