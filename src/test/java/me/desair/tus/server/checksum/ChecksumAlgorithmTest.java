@@ -37,7 +37,7 @@ public class ChecksumAlgorithmTest {
     }
 
     @Test
-    public void testToString() throws Exception {
+    public void testToStrin() throws Exception {
         assertEquals("md5", ChecksumAlgorithm.MD5.toString());
         assertEquals("sha1", ChecksumAlgorithm.SHA1.toString());
         assertEquals("sha256", ChecksumAlgorithm.SHA256.toString());
