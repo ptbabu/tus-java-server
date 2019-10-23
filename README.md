@@ -78,4 +78,4 @@ This artifact is versioned as `A.B.C-X.Y` where `A.B.C` is the version of the im
 ## Contributing
 This library comes without any warranty and is released under a [MIT license](https://github.com/tomdesair/tus-java-server/blob/master/LICENSE). If you encounter any bugs or if you have an idea for a useful improvement you are welcome to [open a new issue](https://github.com/tomdesair/tus-java-server/issues) or to [create a pull request](https://github.com/tomdesair/tus-java-server/pulls) with the proposed implementation. Please note that any contributed code needs to be accompanied by automated unit and/or integration tests and comply with the [defined code-style](https://github.com/tomdesair/tus-java-server/blob/master/checkstyle.xml).
 
-added new lines at last
+added new lines at lated
